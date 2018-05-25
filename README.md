@@ -9,3 +9,5 @@ Reads should be provided as paired-end with left and right end in separate files
 ### Output
 
 The output is always `contigs.fa`.
+
+**Note:** The output directory in cwl can be specified with `--outdir`
